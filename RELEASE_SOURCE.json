@@ -1,0 +1,237 @@
+{
+  "repository": "https://github.com/JenkinsRobotics/Aether-IO",
+  "tag": "v0.1.0-alpha.1",
+  "base_commit": "224782ca790e3a1816dd898407c4dd8d09a82fc0",
+  "source_files": [
+    {
+      "path": ".github/workflows/frontend.yml",
+      "sha256": "22516eef34a9d8d5e427e36a03de284bd4d96793d220da8f55bc3d200cd7a08b",
+      "bytes": 412
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "9d3444daf37aa04edff7a771a7d9bd78222e5f65ca051c96334e567ff8dbb755",
+      "bytes": 299
+    },
+    {
+      "path": "AGENTS.md",
+      "sha256": "3428fe0abe3fca8643cc2179e53e6d1f7c0b2ec7ed9292031c164b603a2d09a4",
+      "bytes": 2939
+    },
+    {
+      "path": "ALPHA_0_1.md",
+      "sha256": "0b9e73f4680e9dfc60cebdb528bc8f448c9d02e91737bd551160302e49db0c0c",
+      "bytes": 2020
+    },
+    {
+      "path": "BACKEND_DEVELOPMENT.md",
+      "sha256": "e303fdfdd4bed5f30d13ec15ecf49317064c0fbef69c1e4ab1aafe50a19d611a",
+      "bytes": 13219
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357
+    },
+    {
+      "path": "LOCAL_DEVELOPMENT.md",
+      "sha256": "e6b1a6db2e05774144bc2ece5447ab44fa0d640fda0824e73b6bb7cba3a336b3",
+      "bytes": 420
+    },
+    {
+      "path": "MIGRATION.md",
+      "sha256": "39729ddae4a9d5f7f56e4991700d0b6553cfea11157160c96741d05dd6be676c",
+      "bytes": 1153
+    },
+    {
+      "path": "README.md",
+      "sha256": "88da3d100f6c0aaa8c219293ca45ea05baa04fca47c332f79beaa51ea1c16d9d",
+      "bytes": 9345
+    },
+    {
+      "path": "README.pre-split.md",
+      "sha256": "d67e7c13a70a01bd81d78158601f646ed4bf35d9eedc69360b0206243263ab78",
+      "bytes": 3620
+    },
+    {
+      "path": "SOURCE_HISTORY.json",
+      "sha256": "7aac6b82d3c7c3765ec5b147d94611de7058f2275032568f7ec884f71636443a",
+      "bytes": 1177
+    },
+    {
+      "path": "assets/branding/README.md",
+      "sha256": "d599563776985b20b765fe7e256f349c379992d1016fde8e7a43135f69afbd6e",
+      "bytes": 453
+    },
+    {
+      "path": "assets/branding/aether-io-icon.png",
+      "sha256": "0c829294d701524a3ff204958bc2d66bffad09d2e0a21167e25a7228641c9407",
+      "bytes": 355543
+    },
+    {
+      "path": "assets/branding/aether-io-mark.png",
+      "sha256": "67c06dad3f78c4da0e57ec0432498ec0981d3a7173ecc5285d77aacb18f9eec9",
+      "bytes": 216152
+    },
+    {
+      "path": "assets/branding/aether-io-wordmark-dark.png",
+      "sha256": "613c62bcded42f6595babbdfd6cc7ebc905fca7822dcb4806b238a56be2f9aee",
+      "bytes": 78046
+    },
+    {
+      "path": "assets/branding/aether-io-wordmark-dark.svg",
+      "sha256": "3560c81b0bd49e85c6efad96a9e52801af7a3d4f48e4feaea3d6193307f3ca17",
+      "bytes": 1214568
+    },
+    {
+      "path": "assets/branding/aether-io-wordmark-light.png",
+      "sha256": "8c7f6598b14316bc65ea2b73ccd05fbc3a7cf31bf9ffffa5d6a78296abd1b618",
+      "bytes": 77889
+    },
+    {
+      "path": "assets/branding/aether-io-wordmark-light.svg",
+      "sha256": "281590a9a5c3852c86799fc655fc4c4b9eb0f883f2acabf5816e1ea116b8efca",
+      "bytes": 1214568
+    },
+    {
+      "path": "assets/branding/suite/aether-animation-icon.png",
+      "sha256": "2b720287e067dd980af65ed92f0ee3acab61a7ba6be496a5b102d356f9af4ac9",
+      "bytes": 31443
+    },
+    {
+      "path": "assets/branding/suite/aether-cad-icon.png",
+      "sha256": "5f58618bbab39724be096e742b042eae7120903df243ff7c261c92f4c1bbb072",
+      "bytes": 26059
+    },
+    {
+      "path": "assets/branding/suite/aether-io-icon.png",
+      "sha256": "4af9d378668ffdfbbef333dd376a01580918aec6c7a25d957b85288176eb0bbb",
+      "bytes": 26799
+    },
+    {
+      "path": "assets/branding/suite/aether-map-icon.png",
+      "sha256": "514948228d66ee7a807199a1b9f5b649a82e09b3a419b2dc5594377ab3a61275",
+      "bytes": 32975
+    },
+    {
+      "path": "assets/branding/suite/aether-sketch-icon.png",
+      "sha256": "bc7ad975464954bff833fc1ced0dcf62fdeaf3470a8cb33d927ec48ab4a01278",
+      "bytes": 28716
+    },
+    {
+      "path": "assets/branding/suite/aether-studio-icon.png",
+      "sha256": "8152788f67a6d1c9e093c6f0ed3dde32062f3ce0368490b836586c7974ca4c60",
+      "bytes": 24689
+    },
+    {
+      "path": "assets/branding/suite/aether-vector-icon.png",
+      "sha256": "54a6a1791bec3088d78209a03ffabaec05590e8a0864bb654d47514c569a4b74",
+      "bytes": 24738
+    },
+    {
+      "path": "index.html",
+      "sha256": "d025aca2a0102e7831fce5204daad8733ed6992f0165ea5cb8456a3f7594e301",
+      "bytes": 422
+    },
+    {
+      "path": "package-lock.json",
+      "sha256": "6a2134a8c48f86e6d4746e17bdd816227b700dfc8915c48e6daafbe0e1506dd2",
+      "bytes": 75343
+    },
+    {
+      "path": "package.json",
+      "sha256": "51a2f9f51e9d2b78abe2a569a484dbdb467bd0444b31a9dd5e69d1c403e4a4a9",
+      "bytes": 713
+    },
+    {
+      "path": "public/favicon.ico",
+      "sha256": "c432787d9539413026dac3cd33e6cb9e334c7bae10cab6d160746be1de60f501",
+      "bytes": 9357
+    },
+    {
+      "path": "public/icons/io.png",
+      "sha256": "0c829294d701524a3ff204958bc2d66bffad09d2e0a21167e25a7228641c9407",
+      "bytes": 355543
+    },
+    {
+      "path": "src/App.tsx",
+      "sha256": "7cd1b910666d3d62c883c1bbee82b886a5cc2ea27bc9800c039f068e33130eb8",
+      "bytes": 21854
+    },
+    {
+      "path": "src/CircuitCanvas.tsx",
+      "sha256": "7fafb581ca0f6a16308e16dc81907aecdfd69a20d54019012579a54aa7e7cb60",
+      "bytes": 11373
+    },
+    {
+      "path": "src/Home.tsx",
+      "sha256": "5a032c9585ec35e3e8457bed2f25c60d1ea9d53457610e914d908119bd31d9d9",
+      "bytes": 9147
+    },
+    {
+      "path": "src/IOUpdates.tsx",
+      "sha256": "0bdce9e0f587b41b72d9da3dd5cc1419573b83eeb6fa755a2518dc4c1e5a7f53",
+      "bytes": 1262
+    },
+    {
+      "path": "src/Panels.tsx",
+      "sha256": "468c2d0ee36e536ba61b143f44cdb3c41ff23addd4f00a753323fd04a417e1e7",
+      "bytes": 6223
+    },
+    {
+      "path": "src/WorkflowPanels.tsx",
+      "sha256": "706ee931424d9e0acf6b0f4d8fd8879629abf79e3e39e32880e198f776b45a00",
+      "bytes": 9151
+    },
+    {
+      "path": "src/create-document.ts",
+      "sha256": "6fad206b1db90a69913e4f7673fc40820486c962e4587271ccac0964e88fb611",
+      "bytes": 421
+    },
+    {
+      "path": "src/io.css",
+      "sha256": "a3d1b93b864ed98d0370158c6b5d3898d1a466b4161cd72b1b709769782cfa24",
+      "bytes": 11941
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "c14ba64722c28b894167bce17bd0752f7d15e6b527104ea606208250ae64f8a9",
+      "bytes": 469
+    },
+    {
+      "path": "src/model.test.ts",
+      "sha256": "bf7277dd69187822ea691427a327c527e8520254522af403f9def5caaf4d836b",
+      "bytes": 1564
+    },
+    {
+      "path": "src/model.ts",
+      "sha256": "1caa98e0b73e71f2cd5589fa922aee816798fbc3894c5749e458bdaf0866bd94",
+      "bytes": 6051
+    },
+    {
+      "path": "src/workflow-settings.ts",
+      "sha256": "c74890751c2855fb1db89743cd90508274cdffcbf59a45a919f793dfc812c473",
+      "bytes": 606
+    },
+    {
+      "path": "tools/fetch-vendor.py",
+      "sha256": "cad0cf0accc292879d0497999cc3094e67fd7dbd2e3b19d70aa746da3bf795f8",
+      "bytes": 1223
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "5d3060cf94a514a1b789181861dd70810033dc3a89c7c9f12890655e72f6fa0a",
+      "bytes": 361
+    },
+    {
+      "path": "vendor-manifest.json",
+      "sha256": "a808d9a7c9456f5968a93535abb1ba1c38f484dd97fa80fddb0dd92b161d06c1",
+      "bytes": 1193
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "c7b09ec3663265708d28d6b2cf2a9fdb78b0b52f3d404e25b3b1d770f7168cb7",
+      "bytes": 824
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "source": "/Users/jonathanjenkins/GITHUB/Aether Studio",
+  "sourceRevision": "cebdbec87576b24050f627008252be0e833c25be",
+  "filteredCommits": 1,
+  "paths": [
+    [
+      "aether-io/",
+      ""
+    ],
+    [
+      "LICENSE",
+      "LICENSE"
+    ]
+  ],
+  "note": "Filtered current-branch history; current uncommitted source snapshot is preserved in the migration commit. Drive retains Studio ancestry because it was developed there. All original branches/tags remain in the original repository.",
+  "githubCheckoutAdoption": {
+    "source": "/Users/jonathanjenkins/GITHUB/Temp Aether/aether-io",
+    "source_head": "9137fc880b9c9b7a2f40a18b52d092e43a958e62",
+    "destination": "/Users/jonathanjenkins/GITHUB/Aether-IO",
+    "destination_head": "224782ca790e3a1816dd898407c4dd8d09a82fc0",
+    "origin": "https://github.com/JenkinsRobotics/Aether-IO.git",
+    "template_backup": "/Users/jonathanjenkins/GITHUB/Temp Aether/github-import-backup-2026-10-10/Aether-IO",
+    "date": "2026-10-10",
+    "note": "Source snapshot imported without replacing the destination .git. Original local history stays in Temp Aether; initial GitHub history remains the destination parent."
+  }
+}
